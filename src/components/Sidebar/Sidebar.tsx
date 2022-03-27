@@ -1,4 +1,4 @@
-import styles from "./Sidebar.module.css"
+import styles from "./Sidebar.module.scss"
 import { Link, useLocation } from "react-router-dom"
 
 const sidebarNavLinks = ["dashboard", "expenses", "wallets", "summary", "accounts", "settings"];
